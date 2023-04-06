@@ -1,0 +1,189 @@
+val,name,address1,latitude,longitude,city,state,pincode,phone,storeUrl,open_time(AM),close_time(PM)
+12403,Café Coffee Day - Rajouri Garden,"Building No 13/57, J Block
+ Rajouri Garden
+",28.6397488,77.1181652,Delhi,Delhi,110027,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi-4,09:00:00,09:30:00
+12401,Café Coffee Day - Vishal Enclave,"24
+ Block A, Vishal Enclave, Rajouri Garden
+",28.6489842,77.12184,Delhi,Delhi,110027,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi-3,10:00:00,09:30:00
+12396,Café Coffee Day - Janakpuri,"Block B 2B/14, Janakpuri
+ ",28.63344,77.94284,Delhi,Delhi,110058,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi-2,09:00:00,11:00:00
+12394,Café Coffee Day - Mandi House,"Shop No 49, Plot 7, Block 205 C, Tansen Marg
+ Next to Annakoot, Mandi House
+
+",28.6294921,77.232787,New delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/new-delhi-0,09:00:00,10:00:00
+12390,Café Coffee Day - Lajpath Nagar,"A-10, Lajpath Nagar Part-2 ",28.569843,77.238611,Delhi,Delhi,110024,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi-1,09:00:00,11:00:00
+12388,Café Coffee Day - New Friends Colony,"14, Community Center, Ground Floor
+ New Friends Colony
+",28.562661,77.2689677,Delhi,Delhi,110065,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi-0,09:00:00,11:30:00
+12318,Café Coffee Day - Janakpuri,"C3-78, Major P Srikumar Marg
+ Block C3A, Block C3, Janakpuri",28.615781,77.879554,Delhi,Delhi,110058,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janakpuri/janakpuri-0,09:00:00,11:00:00
+12306, Café Coffee Day - Janak Cinema,"C Block, Janakpuri, Near Mata Chandan Devi Hospital C Block, Janakpuri, Near Mata Chandan Devi Hospital",28.610926,77.0916334,Delhi,Delhi,110059,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janak-cinema,10:00:00,11:00:00
+12301,Café Coffee Day - Dlf Sarojini Nagar Delhi,Dlf Sarojini Nagar Delhi Dlf Sarojini Nagar Delhi,28.5763,77.1951,Delhi,Delhi,110023,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/dlf-sarojini-nagar-delhi,10:00:00,10:00:00
+12300,Café Coffee Day - Bengali Market Delhi,Bengali Market Delhi Bengali Market Delhi,28.6295,77.2322,Delhi,Delhi,110001,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/bengali-market-delhi,09:00:00,11:00:00
+12244,Café Coffee Day - Shopper Stop Rohini,"FFF Crown Plaza, Plot Number 3B1
+ Bhagawan Mahavir Marg, Sector 10, Rohini
+
+",28.719748,77.19988,New delhi,Delhi,110085,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/new-delhi/shopper-stop-rohini,11:00:00,09:30:00
+12288,Café Coffee Day - Kamlanagar Building No 26b1 & 27 A1 Del,"Building No 26B/1 & 27 A/1
+ Jawahar Nagar, Kamla Nagar",28.679952,77.28535,Delhi,Delhi,110010,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/kamlanagar,10:00:00,09:30:00
+12270,Café Coffee Day - Pod Food Court Dhaula Kuan Metro Stn,Pod Food Court Dhaula Kuan Metro Stn ,49.29,84.0,Delhi,Delhi,110007,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/pod-food-court,11:00:00,01:00:00
+12141,Café Coffee Day - Pinnacle Mall,"Atrium, Pinnacle Mall Sector 10, Dwarka",28.57946205,77.05601501,Delhi,Delhi,110075,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/dwarka/dwarka-0,10:00:00,10:00:00
+12080,Café Coffee Day - PSRI Hospital,"PSRI Hospital, Ground Floor
+ Sheikh Sarai
+",28.533991,77.225599,Delhi,Delhi,110017,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/sheikh-sarai/sheikh-sarai,08:00:00,10:00:00
+12081,Café Coffee Day - Parsvanath Mall,"Shop No G 08 & G 09
+ Parsvanath Mall, Akshardham Metro Station
+",28.6178687,77.279468,Delhi,Delhi,110092,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/akshardham/akshardham,09:00:00,10:00:00
+12079,Café Coffee Day - East Of Kailash,Building No.19 East Of Kailash Comunity Center,28.5584685,77.2454778,Delhi,Delhi,110065,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/east-kailash/east-kailash-0,09:00:00,11:00:00
+11993,Café Coffee Day - Vasant Square Mall,"Vasant square Mall Plot No A Community Center Sector-B, Vasant Kunj",28.52564,77.156792,Delhi,Delhi,110070,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/vasant-kunj/vasant-square-mall,10:00:00,10:00:00
+11806,Café Coffee Day - Sarita Vihar,"Cross Shop no 14, DDA Market Sarita Vihar ",28.5336627,77.225945,New delhi,Delhi,110076,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/new-delhi/sarita-vihar/sarita-vihar-1,09:00:00,11:00:00
+11913,Café Coffee Day - Star City Mall,"33 Ground Floor, Star City Mall
+ Mayur Place, Mayur Vihar I",28.592657,77.2964362,New delhi,Delhi,110091,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/new-delhi/mayur-vihar/star-city-mall,10:00:00,10:00:00
+11807,Café Coffee Day - Sarita Vihar,"Inside Indraprastha Apollo Hospital Mathura Road, Sarita Vihar",28.5409,77.282456,Delhi,Delhi,110076,7428235992,https://www.cafecoffeeday.com/store-locator/delhi/delhi/sarita-vihar/sarita-vihar-2,00:00:00,00:00:00
+11902,Café Coffee Day - Splendor Forum,"G-18, Splendor Forum, Jasola ",28.539228,77.284486,Delhi,Delhi,110044,9312877018,https://www.cafecoffeeday.com/store-locator/delhi/delhi/jasola/splendor-forum,08:00:00,10:00:00
+11948,Café Coffee Day - The Mall Road,"Plot No. 61, Mall Road, Kingsway Camp ",28.697905,77.206579,Delhi,Delhi,110009,9313307343,https://www.cafecoffeeday.com/store-locator/delhi/delhi/mall-road/mall-road,08:00:00,11:00:00
+11974,Café Coffee Day - Unitech Amusement Park,"Unitech Amusement Park, Rohini Near Rithala Metro Station",28.727433,77.116135,Delhi,Delhi,110001,9213022186,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rohini/unitech-amusement-park,10:00:00,10:00:00
+12033,Café Coffee Day - West Patel Nagar,"Plot No. 8,  Block No. 42, West Patel Nagar ",28.65087375,77.15971291,Delhi,Delhi,110008,011 32213990,https://www.cafecoffeeday.com/store-locator/delhi/delhi/west-patel-nagar/west-patel-nagar,10:00:00,10:00:00
+11813,Café Coffee Day - Satya Niketan,"283 Satya Niketan, Main Market Opposite Venketeshwara College",28.58767811,77.1671752,Delhi,Delhi,110021,9350767550,https://www.cafecoffeeday.com/store-locator/delhi/delhi/satya-niketan/satya-niketan,09:00:00,11:00:00
+11820,Café Coffee Day - Sector 10,"Crown Plaza, Plot Number 3B1, Sector 10 Bhagawan Mahavir Marg, Rohini",28.7196608,77.10912644,Delhi,Delhi,160010,9213023168,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rohini/sector-10-1,10:00:00,11:00:00
+11865,Café Coffee Day - Shivaji Marg,"Plot No. 29, Shivaji Marg, Najafgarh Road Industrial Area ",28.66098497,77.14859121,Delhi,Delhi,110015,011 32213946,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shivaji-marg/shivaji-marg,09:00:00,11:00:00
+11869,Café Coffee Day - Shivalik,"A-6, Shivalik, Near Malviya Nagar ",28.535208,77.208552,Delhi,Delhi,110017,011 65157046,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shivalik/shivalik,09:00:00,11:00:00
+11899,Café Coffee Day - South Extension 2,"Ring Road, South Extension Ii ",28.568657,77.218487,Delhi,Delhi,110049,011 64638601,https://www.cafecoffeeday.com/store-locator/delhi/delhi/south-extension-ii/south-extension-2,09:00:00,11:00:00
+11981,Café Coffee Day - V3S East Centre,"Plot No. 12, V3S East Centre, Laxmi Nagar ",28.637318,77.286632,Delhi,Delhi,110017,9312099260,https://www.cafecoffeeday.com/store-locator/delhi/delhi/laxmi-nagar/v3s-east-centre,10:00:00,11:00:00
+11764,Café Coffee Day - Rohini City Center,"Plot No-1B3, Twin District Center
+ Sector 10, Rohini,
+",28.7169595,77.114614,Delhi,Delhi,110085,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rohini/rohini-city-center,11:00:00,09:30:00
+11664,Café Coffee Day - Prashanth Vihar,"36 & 37, Opposite CRPF Public School, Sector 14 Prashant Vihar
+",28.7193,77.13396,Delhi,Delhi,110085,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rohini/prashanth-vihar,11:00:00,09:30:00
+11634,Café Coffee Day - Paschim Vihar,"A3/320, Jwala Heri Market, Paschim Vihar
+ ",28.67448,77.126372,Delhi,Delhi,110063,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/paschim-vihar/paschim-vihar,11:00:00,09:30:00
+11601,Café Coffee Day - Old Rajendra Nagar,"5/54, Ground Floor, Old Rajendra Nagar
+ Shankar Road",28.638523,77.18376,Delhi,Delhi,110060,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/old-rajendra-nagar/old-rajendra-nagar,10:00:00,10:00:00
+11710,Café Coffee Day - Rajiv Chowk Metro Station,"RCK 02
+ Rajiv Chowk Metro Station
+",28.63294887,77.21915968,Delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-metro-station-1,09:00:00,11:00:00
+11740,Café Coffee Day - Regal Building,"Ground Floor, Regal Building Connaught Place
+",28.63175146,77.21681942,Delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/regal-building,10:00:00,09:00:00
+11720,Café Coffee Day - Ramakrishna Ashram Marg,"U22 Agn, Ramakrishna Ashram Marg ",28.6395408,77.2085157,Delhi,Delhi,110055,9312874178,https://www.cafecoffeeday.com/store-locator/delhi/delhi/ramakrishna-ashram-marg/ramakrishna-ashram-marg,10:00:00,10:00:00
+11673,Café Coffee Day - Punjabi Bagh,"Shop No 6, Club Road, Punjabi Bagh ",28.665707,77.125873,Delhi,Delhi,110026,011 32931770,https://www.cafecoffeeday.com/store-locator/delhi/delhi/punjabi-bagh/punjabi-bagh,09:00:00,11:00:00
+11638,Café Coffee Day - Patpargunj,"Max Hospital, I P Extension, Patpargunj ",28.634015,77.309819,Delhi,Delhi,110017,9350934679,https://www.cafecoffeeday.com/store-locator/delhi/delhi/patpargunj/patpargunj,00:00:00,00:00:00
+11706,Café Coffee Day - Rajendra Place Metro Station,"Rajendra Place Metro Station, Rp U22 Cgn Rajendra Place",28.64241107,77.17822593,Delhi,Delhi,110008,9310146480,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajendra-place/rajendra-place-metro-station,10:00:00,10:00:00
+11684,Café Coffee Day - Pvr Naraina,"Pvr, Industrial Area, Community Centre, Naraina Naraina Industrial Area Phase I",28.633573,77.139135,Delhi,Delhi,110028,9312066583,https://www.cafecoffeeday.com/store-locator/delhi/delhi/naraina/pvr-naraina,10:00:00,11:00:00
+11687,Café Coffee Day - Qutub Minar,"Villa Haven, Ten Style Mile, Near Qutub Minar Mehrauli",28.52550014,77.18534549,Delhi,Delhi,110030,9312873664,https://www.cafecoffeeday.com/store-locator/delhi/delhi/mehrauli/qutub-minar,09:00:00,11:00:00
+11674,Café Coffee Day - Pusa Road,"Karol Bagh Metro Station, Pusa Road ",28.643437,77.188495,Delhi,Delhi,110005,9313483850,https://www.cafecoffeeday.com/store-locator/delhi/delhi/pusa-road/pusa-road,10:00:00,09:00:00
+11711,Café Coffee Day - Rajiv Chowk Metro Station,Rajiv Chowk Metro Station D Block 4 Toms,28.633899,77.219285,Delhi,Delhi,110001,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-metro-station-2,00:00:00,00:00:00
+11708,Café Coffee Day - Rajiv Chowk,"Rck 06, Rajiv Chowk ",28.631524,77.219324,Delhi,Delhi,110001,9312875408,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-2,09:00:00,11:00:00
+11709,Café Coffee Day - Rajiv Chowk Metro F Block,F Block 4 Toms Rajiv Chowk Metro Station,28.631481,77.219504,Delhi,Delhi,110001,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-metro-f-block,08:00:00,10:00:00
+11712,Café Coffee Day - Rajiv Chowk Metro Station A-Block,A Blk 4 Toms Rajiv Chowk Metro Station ,28.633967,77.218567,Delhi,Delhi,110001,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-metro-station-block,08:00:00,10:00:00
+11713,Café Coffee Day - Rajiv Chowk Metro Station Rck 05,"RCK 05, Rajiv Chowk Metro Station, Connaught Place ",28.63265,77.219421,Delhi,Delhi,110001,9350294925,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/rajiv-chowk-metro-station-rck-05,09:00:00,11:00:00
+11707,Café Coffee Day - Rajiv Chowk,"Dmrc, Rajiv Chowk ",28.631524,77.219324,Delhi,Delhi,110001,9312874924,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajiv-chowk/rajiv-chowk-1,09:00:00,11:00:00
+11763,Café Coffee Day - Rockland Hospital,"Rockland Hospital, B-33 & 34, Qutab Institutional Area Tara Crescent, Block A",28.53732794,77.18103287,Delhi,Delhi,110016,9350233558,https://www.cafecoffeeday.com/store-locator/delhi/delhi/tara-crescent/rockland-hospital,08:00:00,08:00:00
+11765,Café Coffee Day - Rohini Sector 7,"Plot No. 23 , Pocket No. 9, Sector 7 , Rohini ",28.70955738,77.12269574,Delhi,Delhi,110085,011 64000083,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rohini/rohini-sector-7,09:00:00,11:00:00
+11779,Café Coffee Day - Safdarjung Enclave,"Nauroji Nagar Marg, Safdarjung Enclave Near Kamal Cinema",28.565347,77.199393,Delhi,Delhi,110029,011 64638611,https://www.cafecoffeeday.com/store-locator/delhi/delhi/safdarjung-enclave/safdarjung-enclave-2,09:00:00,11:00:00
+11778,Café Coffee Day - Safdarjung Enclave,Safdarjung Enclave ,28.564245,77.189305,Delhi,Delhi,110066,9311954997,https://www.cafecoffeeday.com/store-locator/delhi/delhi/safdarjung-enclave/safdarjung-enclave-1,08:00:00,11:00:00
+11698,Café Coffee Day - Raja Garden,"Atrium Of The Building, No 11 Raja Garden, Shivaji Place",28.65064897,77.12038096,Delhi,Delhi,110027,011 32991352,https://www.cafecoffeeday.com/store-locator/delhi/delhi/raja-garden/raja-garden,10:00:00,10:00:00
+11450,Café Coffee Day - Mansarovar Garden,"B -158, Mansarovar Garden
+ Kirti Nagar
+",28.6417242,77.1358821,Delhi,Delhi,110015,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/kirti-nagar/mansarovar-garden,10:00:00,09:30:00
+11477,Café Coffee Day - MBD House,"Mbd House, Gulab Bhavan 6 Bhadurshah Zafar Marg",28.63228,77.24133,Delhi,Delhi,110002,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/bahadurshah-zafar-marg/mbd-house,09:00:00,11:00:00
+11389,Café Coffee Day - Lajpat Nagar,Lajpat Nagar ,28.56929,77.242481,Delhi,Delhi,110024,011 32227997,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lajpat-nagar/lajpat-nagar-2,09:00:00,11:00:00
+11544,Café Coffee Day - Najafgarh Road,"Plot No. 5, Najafgarh Road, Ramesh Nagar ",28.652299,77.130547,Delhi,Delhi,110015,9312657671,https://www.cafecoffeeday.com/store-locator/delhi/delhi/ramesh-nagar/najafgarh-road,09:00:00,10:00:00
+11482,Café Coffee Day - Meher Chand Market,"Meher Chand Market, Lodhi Colony ",28.58566,77.224778,Delhi,Delhi,110003,011 32212130,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lodhi-colony/meher-chand-market,09:00:00,11:00:00
+11439,Café Coffee Day - Malviya Nagar,New Malviya Nagar Market Malviya Nagar,28.536314,77.211076,Delhi,Delhi,110001,9310834187,https://www.cafecoffeeday.com/store-locator/delhi/delhi/malviya-nagar/malviya-nagar-1,09:00:00,11:00:00
+11475,Café Coffee Day - Mayur Vihar,"Shikka Plaza, Mayur Vihar ",28.60624,77.287772,Delhi,Delhi,110092,9212802833,https://www.cafecoffeeday.com/store-locator/delhi/delhi/mayur-vihar/mayur-vihar,08:00:00,11:00:00
+11488,Café Coffee Day - Mgf Metropolitian Mall,"Inside Mgf Metropolitian Mall, A-2,Press Enclave Marg District Centre, Saket",28.53021849,77.220186,Delhi,Delhi,110017,9313275653,https://www.cafecoffeeday.com/store-locator/delhi/delhi/saket/mgf-metropolitian-mall,09:00:00,11:00:00
+11521,Café Coffee Day - Moolchand Metro Station,"Moolchand Metro Station, Lala Lajpat Rai Marg  Vikram Vihar, Lajpat Nagar 4",28.56434914,77.23446166,Delhi,Delhi,110004,9312261027,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lajpat-nagar/moolchand-metro-station,09:00:00,11:00:00
+11520,Café Coffee Day - Moolchand,"Bpcl, Moolchand, Josip Broz Tito Marg, Block D Panchsheel Enclave",28.563229,77.232501,Delhi,Delhi,110049,9213020026,https://www.cafecoffeeday.com/store-locator/delhi/delhi/panchsheel-enclave/moolchand,09:00:00,03:00:00
+11531,Café Coffee Day - Mukherjee Nagar,"1604, Outram Lane, Mukherjee Nagar ",28.698235,77.206619,Delhi,Delhi,110009,011 64638613,https://www.cafecoffeeday.com/store-locator/delhi/delhi/mukherjee-nagar/mukherjee-nagar,08:00:00,11:00:00
+11565,Café Coffee Day - Nehru Place,"Tdi, Nehru Place Metro Station, Nehru Place ",28.55062877,77.25185224,Delhi,Delhi,110019,011 64638619,https://www.cafecoffeeday.com/store-locator/delhi/delhi/nehru-place/nehru-place-2,10:00:00,11:00:00
+11564,Café Coffee Day - Nehru Place,"70, The Great Eastern Centre, Nehru Place ",28.63448183,77.29094803,Delhi,Delhi,110019,011 65157044,https://www.cafecoffeeday.com/store-locator/delhi/delhi/nehru-place/nehru-place-1,08:00:00,09:00:00
+11567,Café Coffee Day - Netaji Subhash Place,"C # 1, 2,3  Pp Tower, Netaji Subhash Place Pitampura",28.690927,77.152975,Delhi,Delhi,110034,9350183363,https://www.cafecoffeeday.com/store-locator/delhi/delhi/pitampura/netaji-subhash-place,09:00:00,00:00:00
+11469,Café Coffee Day - Max Hospital,"Max Hospital, Press Enclave Marg, Saket ",28.527928,77.211276,Delhi,Delhi,110048,9312876358,https://www.cafecoffeeday.com/store-locator/delhi/delhi/saket/max-hospital-1,00:00:00,00:00:00
+11468,Café Coffee Day - Max Healthcare,"2, Max Hospital, Press Enclave Road, Saket ",28.527798,77.211396,Delhi,Delhi,110048,7428629635,https://www.cafecoffeeday.com/store-locator/delhi/delhi/saket/max-healthcare,00:00:00,00:00:00
+11440,Café Coffee Day - Malviya Nagar,"C 64, Shivalik Colony, Malviya Nagar ",28.535208,77.208552,Delhi,Delhi,110075,9310975823,https://www.cafecoffeeday.com/store-locator/delhi/delhi/malviya-nagar/malviya-nagar-2,09:00:00,11:00:00
+11279,The Square - Janpath,"44, Ground Floor, Tolstoy Road
+ Janpath, Connaught Place
+",28.626719,77.219643,Delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janpath/janpath-2,09:00:00,11:00:00
+11275,Café Coffee Day - Janakpuri District Centre,"Shivaji Marg, Janakpuri District Center, Janakpuri ",28.63023013,77.07977101,Delhi,Delhi,110054,9312016861,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janakpuri/janakpuri-district-centre,09:00:00,11:00:00
+11273,Café Coffee Day - Janakpuri,"B-2/84, Janakpuri ",28.62923425,77.08604874,Delhi,Delhi,110058,9213021227,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janakpuri/janakpuri,08:00:00,00:00:00
+11274,Café Coffee Day - Janakpuri B Block,"Community Center, B 30, B Block, Janakpuri ",28.6293179,77.0913541,Delhi,Delhi,110058,9213020157,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janakpuri/janakpuri-b-block,09:00:00,11:00:00
+11277,Café Coffee Day - Janpath ,"Mansion (Scindia House), Connaught, Atma Ram ",28.54870594,77.12112665,Delhi,Delhi,110001,9313844129,https://www.cafecoffeeday.com/store-locator/delhi/delhi/janpath/janpath,09:00:00,11:00:00
+11312,Café Coffee Day - Kalkaji,"H1B, Kalkaji Main Road, Block H, Kalkaji ",28.54010113,77.25806951,Delhi,Delhi,110019,9350185379,https://www.cafecoffeeday.com/store-locator/delhi/delhi/kalkaji/kalkaji-2,09:00:00,11:00:00
+11349,Café Coffee Day - Kingsway Camp,"Kingsway Camp, Near Gtb Nagar Metro Station Outram Lines, Mukherjee Nagar",28.698399,77.206771,Delhi,Delhi,110009,9312031280,https://www.cafecoffeeday.com/store-locator/delhi/delhi/outram-lines/kingsway-camp,08:00:00,11:00:00
+11350,Café Coffee Day - Kirti Nagar Metro Station,"Kirti Nagar Metro Station, Block J, Kirti Nagar ",28.65561771,77.15099702,Delhi,Delhi,110015,9310090453,https://www.cafecoffeeday.com/store-locator/delhi/delhi/kirti-nagar/kirti-nagar-metro-station,10:00:00,10:00:00
+11331,Café Coffee Day - Karol Bagh Metro,"Shop No. 422D, Karol Bagh Metro Station ",28.643297,77.188605,Delhi,Delhi,110005,011 32967482,https://www.cafecoffeeday.com/store-locator/delhi/delhi/karol-bagh/karol-bagh-metro,09:00:00,11:00:00
+11297,Café Coffee Day - Jhandewalan,"Block E, Jhandewalan ",28.644687,77.199643,Delhi,Delhi,110055,011 32227995,https://www.cafecoffeeday.com/store-locator/delhi/delhi/jhandewalan/jhandewalan,10:00:00,10:00:00
+11245,Café Coffee Day - Inside Tdi Paragon Mall,"Tdi Paragon Mall, Shivaji Place, Vishal Enclave Rajouri Garden",28.65064897,77.12038096,Delhi,Delhi,110027,9312874574,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajouri-garden/inside-tdi-paragon-mall,10:00:00,10:00:00
+11198,Café Coffee Day - Inside Max Hospital,"Inside Max Hospital , Fc - 50, C & D Block Shalimar Bagh",28.72753109,77.15268016,Delhi,Delhi,110088,9312021712,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shalimar-bagh/inside-max-hospital-1,07:00:00,11:00:00
+11032,"Café Coffee Day - Hotel Chorus, New Delhi","Hotel Chorus, First Floor, B Block, Inner Circle, Connaught Place",28.633839,77.218884,Delhi,Delhi,110011,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/hotel-chorus-new-delhi,10:00:00,09:00:00
+10988,Café Coffee Day - Green Park Main,"S-34, Green Park Main Market
+ ",28.556233,77.2261,Delhi,Delhi,110016,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/green-park/green-park-main,09:00:00,11:00:00
+11168,Café Coffee Day - IIT Delhi,"Exhibition Hall
+ IIT Delhi",28.547767,77.1953276,Delhi,Delhi,110016,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/indian-institute-technology/inside-iit-1,09:00:00,11:00:00
+11037,Café Coffee Day - Hotel Le Cadre,"E23, Ground Floor, Hotel Le Cadre
+ Block E, East Of Kailash
+",28.5551178,77.2424188,Delhi,Delhi,110065,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/east-kailash/hotel-le-cadre,09:00:00,11:30:00
+11132,Café Coffee Day - Inside Cross River Mall,"Central Business Cross River Mall,
+ Plot No. 9b & 9c",28.6571129,77.32259,Delhi,Delhi,110032,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shahdara/inside-cross-river-mall,10:00:00,10:00:00
+10987,Café Coffee Day - Green Park,Green Park ,28.555483,77.202735,Delhi,Delhi,110016,9311609581,https://www.cafecoffeeday.com/store-locator/delhi/delhi/green-park/green-park,08:00:00,11:00:00
+11004,Café Coffee Day - Gymkhana Club,Safdarjurng Road ,28.597939,77.206145,Delhi,Delhi,110029,011 64000081,https://www.cafecoffeeday.com/store-locator/delhi/delhi/safdarjurng-road/gymkhana-club,09:00:00,10:00:00
+11014,Café Coffee Day - Hauz Khas,GF 26 Hauz Khas Village,28.554464,77.194033,Delhi,Delhi,110016,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/hauz-khas/hauz-khas-2,09:00:00,00:00:00
+11141,Café Coffee Day - Inside D Mall,"Inside D Mall, Netaji Subash Place, Ring Road, Wazirpur ",28.69267391,77.15274835,Delhi,Delhi,110034,7428376172,https://www.cafecoffeeday.com/store-locator/delhi/delhi/wazirpur/inside-d-mall,09:00:00,11:00:00
+11002,Café Coffee Day - Gurunanak Pura,"A-47, Gurunanak Pura, Laxmi Nagar ",28.63772812,77.2846797,Delhi,Delhi,110092,011 64592486,https://www.cafecoffeeday.com/store-locator/delhi/delhi/laxmi-nagar/gurunanak-pura,09:00:00,11:00:00
+11038,"Café Coffee Day - Hpcl, Green Park","Hpcl Petrol Pump, Green Park ",28.556823,77.206817,Delhi,Delhi,110016,9312876431,https://www.cafecoffeeday.com/store-locator/delhi/delhi/green-park/hpcl-green-park,09:00:00,11:00:00
+10828,The Square - Connaught Place,"Atma Ram House
+ C 14, First Floor, C Block, Connaught Place",28.6342255,77.224981,Delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/connaught-place-4,11:00:00,11:00:00
+10937,Café Coffee Day - Fortis Hospital,"Ground Floor, Fortis Hospital, Shalimar Bagh
+ near Khela Godown
+",28.71011043,77.16983902,Delhi,Delhi,110088,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shalimar-bagh/fortis-hospital,09:00:00,11:00:00
+10898,Café Coffee Day - Dwarka,"Aggarwal Shopping Centre Golak Dham Market
+ Sector 10 Dwarka, Dwarka
+",28.586663,77.56622,Delhi,Delhi,110075,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/dwarka/dwarka,10:00:00,09:30:00
+10978,Café Coffee Day - Gopinath Bazaar,"1B , Ground Floor, Gopinath Bazaar
+ Shastri Bazaar, Delhi Cantt
+",28.597999,77.1325887,Delhi,Delhi,110010,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/delhi-cantonment/gopinath-bazaar,09:00:00,11:00:00
+10854,Café Coffee Day - Dda Market,"Ground Floor, DDA Market
+ Shanti Niketan
+",28.5772737,77.1685243,Delhi,Delhi,110044,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/moti-bagh/dda-market,09:00:00,11:00:00
+10902,Café Coffee Day - East Patel Nagar,"1/1E, East Patel Nagar ",28.6456566,77.17020341,Delhi,Delhi,110008,9310146480,https://www.cafecoffeeday.com/store-locator/delhi/delhi/east-patel-nagar/east-patel-nagar-2,10:00:00,11:00:00
+10838,Café Coffee Day - CR Park,"K1/14, Main Road C R Park",28.5392,77.253047,Delhi,Delhi,110019,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/cr-park/cr-park,09:00:00,11:00:00
+10884,Café Coffee Day - Dmrc Vishwavidyalaya ,"Dmrc Vishwavidyalaya 2 Toms Vishwavidyalaya, 2 Toms",28.695427,77.214824,Delhi,Delhi,110007,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/vishwavidyalaya/dmrc-vishwavidyalaya,10:00:00,11:00:00
+10882,Café Coffee Day - Dmrc Kashmere Gate,Dmrc Kashmere Gate 3 Toms (Scr Site),28.667704,77.227778,Delhi,Delhi,110006,9350319018,https://www.cafecoffeeday.com/store-locator/delhi/delhi/kashmere-gate/dmrc-kashmere-gate,09:00:00,11:00:00
+10879,Café Coffee Day - Dlf Shalimar Bagh,"Ap Block, Dlf City Centre, Shaheed Udham Singh Marg Poorvi Shalimar Bagh",28.702953,77.157347,Delhi,Delhi,110052,9310523021,https://www.cafecoffeeday.com/store-locator/delhi/delhi/shaheed-udham-singh-marg/dlf-shalimar-bagh,09:00:00,11:00:00
+10900,Café Coffee Day - East Of Kailash,"East Of Kailash, Ground Floor, North Side ",28.559479,77.246513,Delhi,Delhi,110065,7428753518,https://www.cafecoffeeday.com/store-locator/delhi/delhi/east-kailash/east-kailash,09:00:00,10:00:00
+10919,Café Coffee Day - Escorts Okhla,"1St Floor, Escorts Heart Institute, New Friends Colony Okhla Road",28.560788,77.273414,Delhi,Delhi,110025,9311222063,https://www.cafecoffeeday.com/store-locator/delhi/delhi/new-friends-colony/escorts-okhla,00:00:00,00:00:00
+10967,Café Coffee Day - Gk 2 M Block,"M 66, M Block, Greater Kailash Part 2 ",28.54975087,77.23615595,Delhi,Delhi,110048,9310375757,https://www.cafecoffeeday.com/store-locator/delhi/delhi/greater-kailash-2/gk-2-m-block-2,09:00:00,00:00:00
+10965,Café Coffee Day - Gk2,"Greater Kailash Ii, Main Market ",28.533916,77.24488,Delhi,Delhi,110048,9312876799,https://www.cafecoffeeday.com/store-locator/delhi/delhi/greater-kailash-2/gk2,09:00:00,11:00:00
+10832,Café Coffee Day - Cp Radial Road,"B Block, Radial Road, Connaught Place ",28.633825,77.217885,Delhi,Delhi,110001,011 65157045,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/cp-radial-road,09:00:00,11:00:00
+10903,Café Coffee Day - E Block Cp,"E-11, Mezzanine Floor, E Block, Connaught Place ",28.63238569,77.22173346,Delhi,Delhi,110001,9213023594,https://www.cafecoffeeday.com/store-locator/delhi/delhi/e-block-cp/e-block-cp,09:00:00,11:00:00
+10874,Café Coffee Day - Dlf Jasola,"Dlf Tower A, Plot No. 10 Jasola",28.53848175,77.28979476,Delhi,Delhi,110020,9312750823,https://www.cafecoffeeday.com/store-locator/delhi/delhi/jasola/dlf-jasola,08:00:00,10:00:00
+10883,Café Coffee Day - Dmrc Malviyanagar,Malviyanagar 2 Tom'S (New),28.528583,77.203228,Delhi,Delhi,110017,,https://www.cafecoffeeday.com/store-locator/delhi/delhi/malviyanagar/dmrc-malviyanagar,09:00:00,11:00:00
+10924,Café Coffee Day - Express Line,Airport Metro Express Line ,28.54870594,77.12112665,Delhi,Delhi,110006,9213022608,https://www.cafecoffeeday.com/store-locator/delhi/delhi/airport-metro-express-line/express-line,09:00:00,11:00:00
+10867,Café Coffee Day - Dinar Bhavan-Delhi,"1St Floor, Plot No 44, Dinar Bhavan Nehru Place",28.55016,77.252284,Delhi,Delhi,110019,011 64720012,https://www.cafecoffeeday.com/store-locator/delhi/delhi/nehru-place/dinar-bhavan-delhi,08:00:00,11:00:00
+10850,Café Coffee Day - Daryaganj,"3631, Hameed Manzil, Netaji Subhash Marg, Daryaganj Near?Golcha Cinema",28.647164,77.239924,Delhi,Delhi,110002,9312750438,https://www.cafecoffeeday.com/store-locator/delhi/delhi/daryaganj/daryaganj,09:00:00,10:00:00
+10827,Café Coffee Day - Connaught Place,"L 12, Connaught Place, Delhi Outer Circle ",28.634462,77.22227,Delhi,Delhi,110001,011 64580767,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/connaught-place-3,09:00:00,11:00:00
+10826,Café Coffee Day - Connaught Place,"M Block, Connaught Circus, Connaught ",28.632678,77.222933,Delhi,Delhi,110001,9310181017,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/connaught-place-2,09:00:00,11:00:00
+10901,Café Coffee Day - East Patel Nagar,"11/15, East Patel Nagar ",28.645059,77.169957,Delhi,Delhi,110008,9312875764,https://www.cafecoffeeday.com/store-locator/delhi/delhi/east-patel-nagar/east-patel-nagar-1,10:00:00,11:00:00
+10812,Café Coffee Day - City Square Mall,"Inside City Square, Najafgarh Road Raja Garden, Rajouri Garden",28.649925,77.123993,Delhi,Delhi,110027,9311136867,https://www.cafecoffeeday.com/store-locator/delhi/delhi/rajouri-garden/city-square-mall,10:00:00,11:00:00
+10824,Café Coffee Day - Computer Mart,"12, Computer Mart, Regal Building Connaught Place",28.631048,77.217015,Delhi,Delhi,110001,7428653585,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/computer-mart,09:00:00,11:00:00
+10652,Café Coffee Day - Ashirwad Chowk,"Shop No. 11, Sector 5 Road
+ Ashirwad Chowk, Dwarka
+",28.596558,77.5641,Delhi,Delhi,110075,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/dwarka/ashirwad-chowk-2,10:00:00,09:30:00
+10665,Café Coffee Day - Awwa Complex,"Pallavi Awwa Complex Opposite Taj Palace Hotel
+ Chanakyapuri
+",28.595247,77.171954,New delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/new-delhi/chanakya-puri/awwa-complex,08:00:00,00:00:00
+10716,Café Coffee Day - B Block Cp,"B-28, Upper Ground Floor Inner Circle, B Block, Connaught Place
+",28.6342685,77.2194239,Delhi,Delhi,110001,1800 102 5093,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/b-block-cp,09:00:00,11:00:00
+10595,Café Coffee Day - Adhchini,"97/1, Sri Aurobindo Marg, Adhchini ",28.53868523,77.19872048,Delhi,Delhi,110017,9313792371,https://www.cafecoffeeday.com/store-locator/delhi/delhi/adhchini/adhchini,09:00:00,11:00:00
+10602,Café Coffee Day - Alaknanda,"Nilgiri Apartments, Alaknanda Entrance Gate Alaknanda Don Bosco Road",28.52554,77.25148,Delhi,Delhi,110017,9310860243,https://www.cafecoffeeday.com/store-locator/delhi/delhi/alaknanda/alaknanda,09:00:00,11:00:00
+10609,Café Coffee Day - Amar Colony,"E/129, Amar Colony, Block E Lajpat Nagar",28.56043962,77.24047472,Delhi,Delhi,110024,011 32933806,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lajpat-nagar/amar-colony-2,09:00:00,11:00:00
+10608,Café Coffee Day - Amar Colony,"Shop No 6, Main Market, Amar Colony Lajpat Nagar",28.560204,77.240346,Delhi,Delhi,110024,9350386473,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lajpat-nagar/amar-colony-1,09:00:00,11:00:00
+10658,Café Coffee Day - Ashok Vihar Ii,"Community Centre, Dda Market, Ashok Vihar Ii, Phase 2 Ashok Vihar",28.69415459,77.17282087,Delhi,Delhi,110052,9311756722,https://www.cafecoffeeday.com/store-locator/delhi/delhi/ashok-vihar/ashok-vihar-ii,08:00:00,11:00:00
+10701,Café Coffee Day - Barakhamba Road ,"Dcm Building, Barakhamba Road, Connaught Place ",28.62971455,77.22564429,Delhi,Delhi,110001,9350389040,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/barakhamba-road,09:00:00,11:00:00
+10700,Café Coffee Day - Barakhamba Road,"Delhi House, Barakhamba Road ",28.62560862,77.23296136,Delhi,Delhi,110001,9312007328,https://www.cafecoffeeday.com/store-locator/delhi/delhi/barakhamba-road/barakhamba-road,09:00:00,11:00:00
+10778,Café Coffee Day - Central Market,"55 - 56, Central Market, Lajpat Nagar Ii, Lajpat Nagar ",28.56929,77.242481,Delhi,Delhi,110024,011 32310689,https://www.cafecoffeeday.com/store-locator/delhi/delhi/lajpat-nagar/central-market,09:00:00,11:00:00
+10753,Café Coffee Day - Bpcl Chanakya Puri,"Bpcl, Chanakya Puri ",28.583407,77.191349,Delhi,Delhi,110021,7428072545,https://www.cafecoffeeday.com/store-locator/delhi/delhi/chanakya-puri/bpcl-chanakya-puri,08:00:00,11:00:00
+10709,Café Coffee Day - Basant Lok,"14A , Main Market, Basant Lok, Vasant Vihar ",28.558793,77.163189,Delhi,Delhi,110057,7428367856,https://www.cafecoffeeday.com/store-locator/delhi/delhi/vasant-vihar/basant-lok,09:00:00,11:00:00
+10591,Café Coffee Day - Connaught Place,"A 21, A Block, Radial Road, Connaught Place ",28.633195,77.218525,Delhi,Delhi,110001,9311810481,https://www.cafecoffeeday.com/store-locator/delhi/delhi/connaught-place/block-connaught-place,09:00:00,11:00:00
+10651,Café Coffee Day - Ashirwad Chowk,"Ashirwad Chowk, Dwarka ",28.595649,77.048927,Delhi,Delhi,110075,011 32228030,https://www.cafecoffeeday.com/store-locator/delhi/delhi/dwarka/ashirwad-chowk-1,09:00:00,11:00:00
+10657,Café Coffee Day - Ashok Nagar,"30 /3A Ds, Ashok Nagar Near Tilak Nagar Metro Station",28.63644749,77.09656834,Delhi,Delhi,110018,9312877331,https://www.cafecoffeeday.com/store-locator/delhi/delhi/ashok-nagar/ashok-nagar-2,10:00:00,11:00:00
